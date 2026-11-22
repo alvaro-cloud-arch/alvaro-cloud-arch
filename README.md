@@ -31,7 +31,9 @@ I’m building my foundations through authorized security labs and study of pene
 - **Additional coursework:** video game development
 - **Ways of working:** analytical thinking, communication, teamwork, agile methods, project management
 
-## Technologies & Skills
+## Technologies & Skills 
+
+Each project repository will show the scope and my contribution.
 
 **Focus:** Cybersecurity, with a primary interest in Red Team and complementary Blue Team foundations.
 
@@ -49,7 +51,7 @@ I’m building my foundations through authorized security labs and study of pene
 
 ## 🧰 Technologies by context
 
-Skills are grouped by where I’ve used or studied them; each project repository will show the scope and my contribution.
+Skills are grouped by where I’ve used or studied them.
 
 | Track | Technologies |
 | --- | --- |
@@ -71,7 +73,6 @@ Skills are grouped by where I’ve used or studied them; each project repository
 
 **Ways of working:** Analytical thinking · Agile methods · Teamwork · Communication · Project planning
 
-<sub>Percentages are editable self-assessments, not certifications or formal test results. TypeScript, React and Next.js are current learning areas; Java and Vaadin also reflect professional experience.</sub>
 ## Currently learning
 
 `Python` · `TypeScript` · `React` · `Next.js`
