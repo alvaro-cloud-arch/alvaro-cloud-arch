@@ -57,7 +57,7 @@ Skills are grouped by where I’ve used or studied them.
 | --- | --- |
 | 🟩 **Professional experience** | `Java` · `Vaadin` |
 | 🟦 **Academic and personal projects** | `C` · `C++` · `C#` · `Python` · `JavaScript` · `SQL` · `MATLAB` · `Bash / Shell` · `Assembly` · `Lisp` · `Prolog` · `CLIPS` |
-| 🟪 **Web and frontend** | `HTML` · `CSS` · `TypeScript` · `React` · `Next.js` |
+| 🟪 **Web and frontend** | `HTML` · `CSS` · `JavaScript` |
 | 🟧 **Desktop, games, and graphics** | `.NET` · `WPF` · `XAML` · `Unity` · `Unreal Engine` · `OpenGL` · `GLUT / GLU` |
 | 🟦 **Systems, networking, and security** | `Linux` · `VMware` · `VirtualBox` · `Cisco Packet Tracer` · `GNS3` · `OpenSSL` · `GPG` · `Git` · `GitLab CI` |
 | 🟨 **Project deployment** | `Cloudflare Workers` · `OpenNext` · `Wrangler` |
