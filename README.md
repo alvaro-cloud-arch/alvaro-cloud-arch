@@ -1,16 +1,14 @@
 ## Hi there 👋
+<p align="center"><img src="./assets/profile-banner.svg" alt="USAL computer engineering student with a Red Team focus" width="100%" /></p>
 
-<!--
-**alvaro-cloud-arch/alvaro-cloud-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><strong>Computer Engineering @ USAL · Java & Vaadin · Red Team focus</strong></p>
 
-Here are some ideas to get you started:
+I´m Álvaro!
+A final year computer engineering student at USAL (University of Salamanca). 
+I’m finishing my degree and gaining professional software development experience with Java and Vaadin at Horus Hardware S.A. I’m building a career focus in cybersecurity, currently deepening expertise in penetration testing, adversary emulation, and threat detection. Familiar with tools across the full attack/defend lifecycle, aligned with the MITRE ATT&CK framework, OSINT, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Python, Typescript, Next.js and React.js to develop my Final year project.
+- 🤔 I’m looking for help with ethical hacking, penetration, and to make secure applications.
+- 💬 Ask me about anything about data structures, or wathever related to computer science things.
+
+
