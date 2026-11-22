@@ -11,4 +11,30 @@ I’m finishing my degree and gaining professional software development experien
 - 🤔 I’m looking for help with ethical hacking, penetration, and to make secure applications.
 - 💬 Ask me about anything about data structures, or wathever related to computer science things.
 
+Security direction
+
+| Primary focus | Complementary foundation |
+| --- | --- |
+| Red Team and offensive security | Blue Team and defensive awareness |
+
+I’m building my foundations through authorized security labs and study of penetration-testing methodology, adversary emulation, and MITRE ATT&CK. I only test systems I own or have explicit permission to assess.
+
+## Technical foundation
+
+- **Systems and security:** Linux system administration, computer systems security
+- **Programming:** Java, C, C#, Swift
+- **Computer science:** data structures
+- **Additional coursework:** video game development
+- **Ways of working:** analytical thinking, communication, teamwork, agile methods, project management
+
+## Currently learning
+
+`Python` · `TypeScript` · `React` · `Next.js`
+
+## Languages
+
+- Spanish
+- English — upper-intermediate
+
+
 
