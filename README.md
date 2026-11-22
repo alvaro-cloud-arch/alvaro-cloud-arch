@@ -47,28 +47,27 @@ I’m building my foundations through authorized security labs and study of pene
 
 **Core topics:** Data structures and algorithms · Linux system administration · Computer systems security · DNS · RIP/OSPF · TCP/UDP sockets
 
-### Self-assessed proficiency
+## 🧰 Technologies by context
 
-| Skill | Level | Skill | Level |
-|:--|:--|:--|:--|
-| C | `██████░░░░` 60% | Java | `██████░░░░` 60% |
-| C++ | `████░░░░░░` 40% | C# | `█████░░░░░` 50% |
-| Python | `████░░░░░░` 40% | JavaScript | `████░░░░░░` 40% |
-| TypeScript | `███░░░░░░░` 30% | SQL | `████░░░░░░` 40% |
-| MATLAB | `█████░░░░░` 50% | Bash / Shell | `████░░░░░░` 40% |
-| Assembly | `███░░░░░░░` 30% | Lisp | `███░░░░░░░` 30% |
-| Prolog | `███░░░░░░░` 30% | CLIPS | `██░░░░░░░░` 20% |
-| Swift | `██░░░░░░░░` 20% | HTML / CSS | `█████░░░░░` 50% |
-| XML / JSON / YAML | `███░░░░░░░` 30% | .NET / WPF / XAML | `█████░░░░░` 50% |
-| Unity | `████░░░░░░` 40% | Unreal Engine | `██░░░░░░░░` 20% |
-| OpenGL / GLUT / GLU | `███░░░░░░░` 30% | Linux administration | `█████░░░░░` 50% |
-| VMware | `████░░░░░░` 40% | VirtualBox | `████░░░░░░` 40% |
-| Cisco Packet Tracer | `████░░░░░░` 40% | GNS3 | `████░░░░░░` 40% |
-| OpenSSL / GPG | `███░░░░░░░` 30% | Git / GitLab CI | `███░░░░░░░` 30% |
-| React / Next.js | `███░░░░░░░` 30% | Vaadin | `█████░░░░░` 50% |
-| Flask / Docker | `███░░░░░░░` 30% | Cloudflare / OpenNext / Wrangler | `██░░░░░░░░` 20% |
-| Data structures / algorithms | `██████░░░░` 60% | Networking | `████░░░░░░` 40% |
-| Computer systems security | `████░░░░░░` 40% |  |  |
+Skills are grouped by where I’ve used or studied them; each project repository will show the scope and my contribution.
+
+| Track | Technologies |
+| --- | --- |
+| 🟩 **Professional experience** | `Java` · `Vaadin` |
+| 🟦 **Academic and personal projects** | `C` · `C++` · `C#` · `Python` · `JavaScript` · `SQL` · `MATLAB` · `Bash / Shell` · `Assembly` · `Lisp` · `Prolog` · `CLIPS` |
+| 🟪 **Web and frontend** | `HTML` · `CSS` · `TypeScript` · `React` · `Next.js` |
+| 🟧 **Desktop, games, and graphics** | `.NET` · `WPF` · `XAML` · `Unity` · `Unreal Engine` · `OpenGL` · `GLUT / GLU` |
+| 🟦 **Systems, networking, and security** | `Linux` · `VMware` · `VirtualBox` · `Cisco Packet Tracer` · `GNS3` · `OpenSSL` · `GPG` · `Git` · `GitLab CI` |
+| 🟨 **Project deployment** | `Cloudflare Workers` · `OpenNext` · `Wrangler` |
+| 🟫 **Additional skill listed on my profile** | `Swift` |
+
+**Computer science foundations:** data structures and algorithms, A* search, client-server sockets, relational database design, DNS, RIP, and OSPF.
+
+**Ways of working:** analytical thinking, communication, teamwork, agile methods, and project management.
+
+## 🟨 Currently learning
+
+`Python` · `TypeScript` · `React` · `Next.js`
 
 **Ways of working:** Analytical thinking · Agile methods · Teamwork · Communication · Project planning
 
