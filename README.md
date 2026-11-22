@@ -6,8 +6,6 @@
 
 <p align="center"><img src="./assets/profile-banner.svg" alt="USAL computer engineering student with a Red Team focus" width="100%" /></p>
 
-<p align="center"><strong>Computer Engineering at USAL · Java & Vaadin · Red Team</strong></p>
-
 
 I´m Álvaro!
 A final year computer engineering student at USAL (University of Salamanca). 
